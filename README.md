@@ -1,5 +1,5 @@
 # dio-java-telefone
-'''mermaid
+```mermaid
 classDiagram
     Iphone --> ReprodutorMusical
     Iphone --> AparelhoTelefonico
@@ -22,3 +22,6 @@ classDiagram
       +adicionarNovaAba()
       +atualizarPagina()
     }
+
+
+
